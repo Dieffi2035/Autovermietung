@@ -1,0 +1,92 @@
+.header {
+width: 100%;
+height: 200px;
+background-color: black;
+}
+
+.table {
+font-size: 250%;
+margin-top: 10%;
+}
+
+#add {
+height: 3%;
+width: 3%;
+margin-right: 26%;
+margin-top: -6%;
+float: right;
+}
+
+h1{ font-size: 500%;
+text-align: center;
+margin-top: 4%}
+
+#t {
+	margin-top: 5%;
+}
+
+.addform {
+font-size: 250%; 
+margin-left: 22%;
+margin-top: 5%;
+text-align: center; 
+width: 50%;
+height: auto;
+border: 3px solid black;
+padding: 3%; 
+ }
+
+.Eingabefelder{
+font-size: 100%; 
+}
+
+th, td {
+padding: 10px; }
+
+ul {
+list-style-type: none;
+color: white;
+padding: 7%;
+}
+
+li {
+display: inline;
+padding: 5%;
+font-size: 150% }
+
+.Logo{
+width: 8%;
+height: 70%;
+float: left;
+margin-left: 3%;
+margin-top: 0.5%; } 
+
+.LSchrift { 
+color: white;
+float: left; 
+font-size: 160%;
+margin-top: 7%; 
+margin-left: -8.5%; 
+} 
+
+.Logo2{
+width: 8%;
+height: 70%;
+float: left;
+margin-left: 46%;
+margin-top: 0.5%; } 
+
+.LSchrift2 { 
+color: white;
+float: left; 
+font-size: 160%;
+margin-top: 7%; 
+margin-left: -9%; 
+} 
+
+#closebtn {
+float: right;
+margin-right: 3%;
+margin-top: 4%;
+width: 5%;
+height: 5%; }
